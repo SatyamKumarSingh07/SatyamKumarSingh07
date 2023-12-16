@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SatyamKumarSingh07
-- 👀 I’m interested in learning new algorithms and intresting topics.
+- 👀 I’m interested in learning new algorithms and interesting topics.
 - 🌱 I’m currently learning Datastructures and different algorithms.
 - 💞️ I’m looking to collaborate on open projects.
 - 📫 you can reach me on linked in.
