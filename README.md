@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SatyamKumarSingh07
+- 👋 Hi, I’m @SatyamKumarSingh07 currently a Masters's Student.
 - 👀 I’m interested in learning new algorithms and interesting topics.
 - 🌱 I’m currently learning Datastructures and different algorithms.
 - 💞️ I’m looking to collaborate on open projects.
