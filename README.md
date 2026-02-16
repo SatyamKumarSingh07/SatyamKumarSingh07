@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @SatyamKumarSingh07 currently a Masters's Student.
-- 👀 I’m interested in learning new algorithms and interesting topics.
-- 🌱 I’m currently learning Datastructures and different algorithms.
-- 💞️ I’m looking to collaborate on open projects.
-- 📫 you can reach me on linked in.
+# 🚀 Hi there! I'm Satyam Kumar Singh
 
-<!---
-SatyamKumarSingh07/SatyamKumarSingh07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my profile! 👋
+
+## 👨‍💻 About Me:
+- I'm a passionate developer with a focus on web technologies.
+- I love exploring new frameworks and tools.
+
+## 🛠️ Technologies & Tools:
+- JavaScript | TypeScript | React | Node.js 
+- Git | GitHub | Docker
+- Python & Django
+
+## 🌱 Currently Learning:
+- Machine Learning
+- Cloud Computing
+
+## 📫 How to Reach Me:
+- Email: [example@example.com](mailto:example@example.com)
+- Twitter: [@yourTwitter](https://twitter.com/yourTwitter)
+
+## 🙌 Contributions:
+Feel free to check out my repositories and contribute to any that interest you! 
+
+Thanks for visiting! 🌟
