@@ -16,8 +16,7 @@ Welcome to my profile! 👋
 - Cloud Computing
 
 ## 📫 How to Reach Me:
-- Email: [example@example.com](mailto:example@example.com)
-- Twitter: [@yourTwitter](https://twitter.com/yourTwitter)
+- Email: [example@example.com](mailto:bharadwajsatyam16@gmail.com)
 
 ## 🙌 Contributions:
 Feel free to check out my repositories and contribute to any that interest you! 
